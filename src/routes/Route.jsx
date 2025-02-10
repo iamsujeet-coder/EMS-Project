@@ -3,7 +3,7 @@ import Home from "../components/Hero/Home";
 import AddEmp from "../components/addEmp/AddEmp";
 import Login from "../components/login/Login";
 import Register from "../components/register/Register";
-import AboutUs from "../components/aboutUs/AboutUS";
+import AboutUs from "../components/aboutUs/AboutUs";
 import UpdateEmp from "../components/updateEmp/UpdateEmp";
 
 export default function RoutePath() {
